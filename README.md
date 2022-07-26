@@ -7,7 +7,7 @@ Computer will choose randomly.
 Scores will be shown at the bottom of the screen. 
 
 Guide:
-Rock beats bird
-Water beats rock
-Bird beats water
+Rock beats bird.
+Water beats rock.
+Bird beats water.
 Same choice equals a tie
